@@ -1,0 +1,9 @@
+*.vvp
+*.vcd
+*.lxt2
+*.log
+*.pyc
+__pycache__/
+sim_build/
+results.xml
+xt2
